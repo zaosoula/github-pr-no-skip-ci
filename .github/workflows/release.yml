@@ -43,19 +43,24 @@ jobs:
       - uses: actions/checkout@v2
       - name: install
         run: npm ci || npm install
-      - run: npm run build --if-present
-      - name: Update extension’s meta
+      - run: npm run build:chromium --if-present
+      - run: npm run build:firefox --if-present
+      - name: Update chromium extension’s meta
         run: >-
-          npx dot-json@1 $DIRECTORY/manifest.json version ${{
+          npx dot-json@1 $DIRECTORY/chromium/manifest.json version ${{
+          needs.Version.outputs.version }}
+      - name: Update firefox extension’s meta
+        run: >-
+          npx dot-json@1 $DIRECTORY/firefox/manifest.json version ${{
           needs.Version.outputs.version }}
       - name: Submit
         run: |
           case ${{ matrix.command }} in
             chrome)
-              cd $DIRECTORY && npx chrome-webstore-upload-cli@2 upload --auto-publish
+              cd $DIRECTORY/chromium && npx chrome-webstore-upload-cli@2 upload --auto-publish
               ;;
             firefox)
-              cd $DIRECTORY && npx web-ext-submit@6
+              cd $DIRECTORY/firefox && npx web-ext-submit@6
               ;;
           esac
         env:

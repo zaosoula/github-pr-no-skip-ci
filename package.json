@@ -1,13 +1,18 @@
 {
 	"private": true,
 	"scripts": {
-		"build": "parcel build source/manifest.json --no-content-hash --no-source-maps --dist-dir distribution --no-cache --detailed-report 0",
+		"build":"run-s build:*",
+		"build:firefox": "parcel build source/firefox/manifest.json --no-content-hash --no-source-maps --dist-dir distribution/firefox --no-cache --detailed-report 0",
+		"build:chromium": "parcel build source/chromium/manifest.json --no-content-hash --no-source-maps --dist-dir distribution/chromium --no-cache --detailed-report 0",
+		"watch:firefox": "parcel watch source/firefox/manifest.json --dist-dir distribution/firefox --no-cache --no-hmr",
+		"watch:chromium": "parcel watch source/chromium/manifest.json --dist-dir distribution/chromium --no-cache --no-hmr",
+		"open":"run-p open:*",
+		"open:firefox": "web-ext run -s distribution/firefox",
+		"open:chromium": "web-ext run -s distribution/chromium -t chromium",
 		"lint": "run-p lint:*",
 		"lint-fix": "run-p 'lint:* -- --fix'",
-		"lint:css": "stylelint source/**/*.css",
 		"lint:js": "xo",
-		"test": "run-p lint:* build",
-		"watch": "parcel watch source/manifest.json --dist-dir distribution --no-cache --no-hmr"
+		"test": "run-p lint:* build"
 	},
 	"browserslist": [
 		"last 1 Chrome version",
@@ -46,7 +51,7 @@
 		"sourceDir": "distribution",
 		"run": {
 			"startUrl": [
-				"https://github.com/fregante/browser-extension-template"
+				"https://github.com"
 			]
 		}
 	}
