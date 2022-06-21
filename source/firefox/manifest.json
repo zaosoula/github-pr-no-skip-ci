@@ -1,13 +1,13 @@
 {
-	"name": "🛡️ Github No Skip Ci",
+	"name": "🛡️ No Skip Ci for GitHub",
 	"version": "1.0.0",
 	"description": "Remove all occurence of [skip ci] in PR commit's description",
 	"homepage_url": "https://github.com/zaosoula/github-pr-no-skip-ci",
 	"manifest_version": 2,
 	"minimum_chrome_version": "100",
 	"icons": {
-		"48": "../icon.svg",
-		"96": "../icon.svg"
+		"48": "../shared/icons/icon.svg",
+		"96": "../shared/icons/icon.svg"
 	},
 	"developer": {
 		"name": "Zao Soula",
@@ -24,7 +24,7 @@
 	],
 	"content_scripts": [{
 		"matches": ["https://github.com/*"],
-		"js": ["../remove-skip-ci.js"],
+		"js": ["../shared/remove-skip-ci.js"],
 		"run_at": "document_start"
 	}]
 }

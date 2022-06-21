@@ -1,12 +1,14 @@
 {
-	"name": "🛡️ Github No Skip Ci",
+	"name": "🛡️ No Skip Ci for GitHub",
 	"version": "1.0.0",
 	"description": "Remove all occurence of [skip ci] in PR commit's description",
 	"homepage_url": "https://github.com/zaosoula/github-pr-no-skip-ci",
 	"manifest_version": 3,
 	"minimum_chrome_version": "100",
 	"icons": {
-		"192": "../icon.png"
+		"48": "../shared/icons/40.png",
+		"128": "../shared/icons/128.png",
+		"256": "../shared/icons/256.png"
 	},
 	"host_permissions": [
 		"https://github.com/*"
