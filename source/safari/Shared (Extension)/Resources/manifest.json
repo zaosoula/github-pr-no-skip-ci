@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "default_locale": "en",
+
+    "name": "__MSG_extension_name__",
+    "description": "__MSG_extension_description__",
+    "version": "1.0.0",
+
+    "icons": {
+        "40": "40.png",
+        "64": "64.png",
+        "128": "128.png",
+        "256": "256.png",
+        "512": "512.png",
+    },
+    "developer": {
+        "name": "Zao Soula",
+        "url": "https://zaosoula.fr"
+    },
+    "content_scripts": [{
+        "run_at": "document_start",
+        "js": [ "remove-skip-ci.js" ],
+        "matches": [ "https://github.com/*" ]
+    }],
+    "permissions": [
+        "https://github.com/*"
+    ]
+}

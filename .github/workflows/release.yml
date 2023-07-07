@@ -8,6 +8,8 @@ env:
 name: Release
 on:
   workflow_dispatch: null
+  # schedule:
+    # - cron: '31 13 * * 3'
 jobs:
   Version:
     outputs:
@@ -45,13 +47,9 @@ jobs:
         run: npm ci || npm install
       - run: npm run build --if-present
       - name: Update chromium extension’s meta
-        run: >-
-          npx dot-json@1 $DIRECTORY/chromium/manifest.json version ${{
-          needs.Version.outputs.version }}
+        run: npx dot-json@1 $DIRECTORY/manifest.json version ${{ needs.Version.outputs.version }}
       - name: Update firefox extension’s meta
-        run: >-
-          npx dot-json@1 $DIRECTORY/firefox/manifest.json version ${{
-          needs.Version.outputs.version }}
+         run: npx dot-json@1 $DIRECTORY/manifest.json version ${{ needs.Version.outputs.version }}
       - name: Submit
         run: |
           case ${{ matrix.command }} in
@@ -59,7 +57,7 @@ jobs:
               cd $DIRECTORY/chromium && npx chrome-webstore-upload-cli@2 upload --auto-publish
               ;;
             firefox)
-              cd $DIRECTORY/firefox && npx web-ext-submit@6
+              cd $DIRECTORY/firefox && npx web-ext-submit@7
               ;;
           esac
         env:

@@ -1,0 +1,1294 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		84226CB62860B120006880E7 /* remove-skip-ci.js in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9A2860B120006880E7 /* remove-skip-ci.js */; };
+		84226CB72860B120006880E7 /* remove-skip-ci.js in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9A2860B120006880E7 /* remove-skip-ci.js */; };
+		84226CB82860B120006880E7 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9C2860B120006880E7 /* 1024.png */; };
+		84226CB92860B120006880E7 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9C2860B120006880E7 /* 1024.png */; };
+		84226CBA2860B120006880E7 /* 76.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9D2860B120006880E7 /* 76.png */; };
+		84226CBB2860B120006880E7 /* 76.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9D2860B120006880E7 /* 76.png */; };
+		84226CBC2860B120006880E7 /* 60.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9E2860B120006880E7 /* 60.png */; };
+		84226CBD2860B120006880E7 /* 60.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9E2860B120006880E7 /* 60.png */; };
+		84226CBE2860B120006880E7 /* 64.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9F2860B120006880E7 /* 64.png */; };
+		84226CBF2860B120006880E7 /* 64.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226C9F2860B120006880E7 /* 64.png */; };
+		84226CC02860B120006880E7 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA02860B120006880E7 /* 58.png */; };
+		84226CC12860B120006880E7 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA02860B120006880E7 /* 58.png */; };
+		84226CC22860B120006880E7 /* 167.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA12860B120006880E7 /* 167.png */; };
+		84226CC32860B120006880E7 /* 167.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA12860B120006880E7 /* 167.png */; };
+		84226CC42860B120006880E7 /* 72.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA22860B120006880E7 /* 72.png */; };
+		84226CC52860B120006880E7 /* 72.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA22860B120006880E7 /* 72.png */; };
+		84226CC62860B120006880E7 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA32860B120006880E7 /* 29.png */; };
+		84226CC72860B120006880E7 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA32860B120006880E7 /* 29.png */; };
+		84226CC82860B120006880E7 /* 100.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA42860B120006880E7 /* 100.png */; };
+		84226CC92860B120006880E7 /* 100.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA42860B120006880E7 /* 100.png */; };
+		84226CCA2860B120006880E7 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA52860B120006880E7 /* 114.png */; };
+		84226CCB2860B120006880E7 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA52860B120006880E7 /* 114.png */; };
+		84226CCC2860B120006880E7 /* 128.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA62860B120006880E7 /* 128.png */; };
+		84226CCD2860B120006880E7 /* 128.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA62860B120006880E7 /* 128.png */; };
+		84226CCE2860B120006880E7 /* 512.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA72860B120006880E7 /* 512.png */; };
+		84226CCF2860B120006880E7 /* 512.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA72860B120006880E7 /* 512.png */; };
+		84226CD02860B120006880E7 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA82860B120006880E7 /* 16.png */; };
+		84226CD12860B120006880E7 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA82860B120006880E7 /* 16.png */; };
+		84226CD22860B120006880E7 /* icon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA92860B120006880E7 /* icon.svg */; };
+		84226CD32860B120006880E7 /* icon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 84226CA92860B120006880E7 /* icon.svg */; };
+		84226CD42860B120006880E7 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAA2860B120006880E7 /* 120.png */; };
+		84226CD52860B120006880E7 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAA2860B120006880E7 /* 120.png */; };
+		84226CD62860B120006880E7 /* 256.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAB2860B120006880E7 /* 256.png */; };
+		84226CD72860B120006880E7 /* 256.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAB2860B120006880E7 /* 256.png */; };
+		84226CD82860B120006880E7 /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAC2860B120006880E7 /* 20.png */; };
+		84226CD92860B120006880E7 /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAC2860B120006880E7 /* 20.png */; };
+		84226CDA2860B120006880E7 /* 32.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAD2860B120006880E7 /* 32.png */; };
+		84226CDB2860B120006880E7 /* 32.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAD2860B120006880E7 /* 32.png */; };
+		84226CDC2860B120006880E7 /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAE2860B120006880E7 /* 180.png */; };
+		84226CDD2860B120006880E7 /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAE2860B120006880E7 /* 180.png */; };
+		84226CDE2860B120006880E7 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAF2860B120006880E7 /* 57.png */; };
+		84226CDF2860B120006880E7 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CAF2860B120006880E7 /* 57.png */; };
+		84226CE02860B120006880E7 /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB02860B120006880E7 /* 80.png */; };
+		84226CE12860B120006880E7 /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB02860B120006880E7 /* 80.png */; };
+		84226CE22860B120006880E7 /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB12860B120006880E7 /* 40.png */; };
+		84226CE32860B120006880E7 /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB12860B120006880E7 /* 40.png */; };
+		84226CE42860B120006880E7 /* 87.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB22860B120006880E7 /* 87.png */; };
+		84226CE52860B120006880E7 /* 87.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB22860B120006880E7 /* 87.png */; };
+		84226CE62860B120006880E7 /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB32860B120006880E7 /* 50.png */; };
+		84226CE72860B120006880E7 /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB32860B120006880E7 /* 50.png */; };
+		84226CE82860B120006880E7 /* 144.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB42860B120006880E7 /* 144.png */; };
+		84226CE92860B120006880E7 /* 144.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB42860B120006880E7 /* 144.png */; };
+		84226CEA2860B120006880E7 /* 152.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB52860B120006880E7 /* 152.png */; };
+		84226CEB2860B120006880E7 /* 152.png in Resources */ = {isa = PBXBuildFile; fileRef = 84226CB52860B120006880E7 /* 152.png */; };
+		84C27F982862068A0017D6AF /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84C27F972862068A0017D6AF /* Info.plist */; };
+		84CC565C2862014400EB3996 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56422862014400EB3996 /* 1024.png */; };
+		84CC565D2862014400EB3996 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56422862014400EB3996 /* 1024.png */; };
+		84CC565E2862014400EB3996 /* 76.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56432862014400EB3996 /* 76.png */; };
+		84CC565F2862014400EB3996 /* 76.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56432862014400EB3996 /* 76.png */; };
+		84CC56602862014400EB3996 /* 60.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56442862014400EB3996 /* 60.png */; };
+		84CC56612862014400EB3996 /* 60.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56442862014400EB3996 /* 60.png */; };
+		84CC56622862014400EB3996 /* 64.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56452862014400EB3996 /* 64.png */; };
+		84CC56632862014400EB3996 /* 64.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56452862014400EB3996 /* 64.png */; };
+		84CC56642862014400EB3996 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56462862014400EB3996 /* 58.png */; };
+		84CC56652862014400EB3996 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56462862014400EB3996 /* 58.png */; };
+		84CC56662862014400EB3996 /* 167.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56472862014400EB3996 /* 167.png */; };
+		84CC56672862014400EB3996 /* 167.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56472862014400EB3996 /* 167.png */; };
+		84CC56682862014400EB3996 /* 72.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56482862014400EB3996 /* 72.png */; };
+		84CC56692862014400EB3996 /* 72.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56482862014400EB3996 /* 72.png */; };
+		84CC566A2862014400EB3996 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56492862014400EB3996 /* 29.png */; };
+		84CC566B2862014400EB3996 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56492862014400EB3996 /* 29.png */; };
+		84CC566C2862014400EB3996 /* 100.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564A2862014400EB3996 /* 100.png */; };
+		84CC566D2862014400EB3996 /* 100.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564A2862014400EB3996 /* 100.png */; };
+		84CC566E2862014400EB3996 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564B2862014400EB3996 /* 114.png */; };
+		84CC566F2862014400EB3996 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564B2862014400EB3996 /* 114.png */; };
+		84CC56702862014400EB3996 /* 128.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564C2862014400EB3996 /* 128.png */; };
+		84CC56712862014400EB3996 /* 128.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564C2862014400EB3996 /* 128.png */; };
+		84CC56722862014400EB3996 /* 512.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564D2862014400EB3996 /* 512.png */; };
+		84CC56732862014400EB3996 /* 512.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564D2862014400EB3996 /* 512.png */; };
+		84CC56742862014400EB3996 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564E2862014400EB3996 /* 16.png */; };
+		84CC56752862014400EB3996 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564E2862014400EB3996 /* 16.png */; };
+		84CC56762862014400EB3996 /* icon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564F2862014400EB3996 /* icon.svg */; };
+		84CC56772862014400EB3996 /* icon.svg in Resources */ = {isa = PBXBuildFile; fileRef = 84CC564F2862014400EB3996 /* icon.svg */; };
+		84CC56782862014400EB3996 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56502862014400EB3996 /* 120.png */; };
+		84CC56792862014400EB3996 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56502862014400EB3996 /* 120.png */; };
+		84CC567A2862014400EB3996 /* 256.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56512862014400EB3996 /* 256.png */; };
+		84CC567B2862014400EB3996 /* 256.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56512862014400EB3996 /* 256.png */; };
+		84CC567C2862014400EB3996 /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56522862014400EB3996 /* 20.png */; };
+		84CC567D2862014400EB3996 /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56522862014400EB3996 /* 20.png */; };
+		84CC567E2862014400EB3996 /* 32.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56532862014400EB3996 /* 32.png */; };
+		84CC567F2862014400EB3996 /* 32.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56532862014400EB3996 /* 32.png */; };
+		84CC56802862014400EB3996 /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56542862014400EB3996 /* 180.png */; };
+		84CC56812862014400EB3996 /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56542862014400EB3996 /* 180.png */; };
+		84CC56822862014400EB3996 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56552862014400EB3996 /* 57.png */; };
+		84CC56832862014400EB3996 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56552862014400EB3996 /* 57.png */; };
+		84CC56842862014400EB3996 /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56562862014400EB3996 /* 80.png */; };
+		84CC56852862014400EB3996 /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56562862014400EB3996 /* 80.png */; };
+		84CC56862862014400EB3996 /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56572862014400EB3996 /* 40.png */; };
+		84CC56872862014400EB3996 /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56572862014400EB3996 /* 40.png */; };
+		84CC56882862014400EB3996 /* 87.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56582862014400EB3996 /* 87.png */; };
+		84CC56892862014400EB3996 /* 87.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56582862014400EB3996 /* 87.png */; };
+		84CC568A2862014400EB3996 /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56592862014400EB3996 /* 50.png */; };
+		84CC568B2862014400EB3996 /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC56592862014400EB3996 /* 50.png */; };
+		84CC568C2862014400EB3996 /* 144.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC565A2862014400EB3996 /* 144.png */; };
+		84CC568D2862014400EB3996 /* 144.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC565A2862014400EB3996 /* 144.png */; };
+		84CC568E2862014400EB3996 /* 152.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC565B2862014400EB3996 /* 152.png */; };
+		84CC568F2862014400EB3996 /* 152.png in Resources */ = {isa = PBXBuildFile; fileRef = 84CC565B2862014400EB3996 /* 152.png */; };
+		84F0A753285CADB400CDEB9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F0A752285CADB400CDEB9D /* AppDelegate.swift */; };
+		84F0A755285CADB400CDEB9D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F0A754285CADB400CDEB9D /* SceneDelegate.swift */; };
+		84F0A758285CADB400CDEB9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A756285CADB400CDEB9D /* LaunchScreen.storyboard */; };
+		84F0A75B285CADB400CDEB9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A759285CADB400CDEB9D /* Main.storyboard */; };
+		84F0A764285CADB400CDEB9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F0A763285CADB400CDEB9D /* AppDelegate.swift */; };
+		84F0A767285CADB400CDEB9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A765285CADB400CDEB9D /* Main.storyboard */; };
+		84F0A76E285CADB400CDEB9D /* github-no-skip-ci Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 84F0A76D285CADB400CDEB9D /* github-no-skip-ci Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		84F0A778285CADB400CDEB9D /* github-no-skip-ci Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 84F0A777285CADB400CDEB9D /* github-no-skip-ci Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		84F0A77E285CADB400CDEB9D /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A739285CADB000CDEB9D /* Main.html */; };
+		84F0A77F285CADB400CDEB9D /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A739285CADB000CDEB9D /* Main.html */; };
+		84F0A780285CADB400CDEB9D /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73B285CADB000CDEB9D /* Icon.png */; };
+		84F0A781285CADB400CDEB9D /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73B285CADB000CDEB9D /* Icon.png */; };
+		84F0A782285CADB400CDEB9D /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73C285CADB000CDEB9D /* style.css */; };
+		84F0A783285CADB400CDEB9D /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73C285CADB000CDEB9D /* style.css */; };
+		84F0A784285CADB400CDEB9D /* script.js in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73D285CADB000CDEB9D /* script.js */; };
+		84F0A785285CADB400CDEB9D /* script.js in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73D285CADB000CDEB9D /* script.js */; };
+		84F0A786285CADB400CDEB9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F0A73E285CADB000CDEB9D /* ViewController.swift */; };
+		84F0A787285CADB400CDEB9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F0A73E285CADB000CDEB9D /* ViewController.swift */; };
+		84F0A788285CADB400CDEB9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73F285CADB400CDEB9D /* Assets.xcassets */; };
+		84F0A789285CADB400CDEB9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A73F285CADB400CDEB9D /* Assets.xcassets */; };
+		84F0A78A285CADB400CDEB9D /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F0A741285CADB400CDEB9D /* SafariWebExtensionHandler.swift */; };
+		84F0A78B285CADB400CDEB9D /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F0A741285CADB400CDEB9D /* SafariWebExtensionHandler.swift */; };
+		84F0A78C285CADB400CDEB9D /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A743285CADB400CDEB9D /* _locales */; };
+		84F0A78D285CADB400CDEB9D /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A743285CADB400CDEB9D /* _locales */; };
+		84F0A78E285CADB400CDEB9D /* images in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A744285CADB400CDEB9D /* images */; };
+		84F0A78F285CADB400CDEB9D /* images in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A744285CADB400CDEB9D /* images */; };
+		84F0A790285CADB400CDEB9D /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A745285CADB400CDEB9D /* manifest.json */; };
+		84F0A791285CADB400CDEB9D /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 84F0A745285CADB400CDEB9D /* manifest.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		84F0A76F285CADB400CDEB9D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84F0A733285CADB000CDEB9D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 84F0A76C285CADB400CDEB9D;
+			remoteInfo = "github-no-skip-ci Extension (iOS)";
+		};
+		84F0A779285CADB400CDEB9D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84F0A733285CADB000CDEB9D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 84F0A776285CADB400CDEB9D;
+			remoteInfo = "github-no-skip-ci Extension (macOS)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		84F0A7A1285CADB400CDEB9D /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				84F0A76E285CADB400CDEB9D /* github-no-skip-ci Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A7A8285CADB400CDEB9D /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				84F0A778285CADB400CDEB9D /* github-no-skip-ci Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		84226C9A2860B120006880E7 /* remove-skip-ci.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "remove-skip-ci.js"; sourceTree = "<group>"; };
+		84226C9C2860B120006880E7 /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
+		84226C9D2860B120006880E7 /* 76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 76.png; sourceTree = "<group>"; };
+		84226C9E2860B120006880E7 /* 60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 60.png; sourceTree = "<group>"; };
+		84226C9F2860B120006880E7 /* 64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 64.png; sourceTree = "<group>"; };
+		84226CA02860B120006880E7 /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
+		84226CA12860B120006880E7 /* 167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 167.png; sourceTree = "<group>"; };
+		84226CA22860B120006880E7 /* 72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 72.png; sourceTree = "<group>"; };
+		84226CA32860B120006880E7 /* 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29.png; sourceTree = "<group>"; };
+		84226CA42860B120006880E7 /* 100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 100.png; sourceTree = "<group>"; };
+		84226CA52860B120006880E7 /* 114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.png; sourceTree = "<group>"; };
+		84226CA62860B120006880E7 /* 128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 128.png; sourceTree = "<group>"; };
+		84226CA72860B120006880E7 /* 512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 512.png; sourceTree = "<group>"; };
+		84226CA82860B120006880E7 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		84226CA92860B120006880E7 /* icon.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = icon.svg; sourceTree = "<group>"; };
+		84226CAA2860B120006880E7 /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		84226CAB2860B120006880E7 /* 256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 256.png; sourceTree = "<group>"; };
+		84226CAC2860B120006880E7 /* 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 20.png; sourceTree = "<group>"; };
+		84226CAD2860B120006880E7 /* 32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 32.png; sourceTree = "<group>"; };
+		84226CAE2860B120006880E7 /* 180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 180.png; sourceTree = "<group>"; };
+		84226CAF2860B120006880E7 /* 57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57.png; sourceTree = "<group>"; };
+		84226CB02860B120006880E7 /* 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80.png; sourceTree = "<group>"; };
+		84226CB12860B120006880E7 /* 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40.png; sourceTree = "<group>"; };
+		84226CB22860B120006880E7 /* 87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 87.png; sourceTree = "<group>"; };
+		84226CB32860B120006880E7 /* 50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50.png; sourceTree = "<group>"; };
+		84226CB42860B120006880E7 /* 144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 144.png; sourceTree = "<group>"; };
+		84226CB52860B120006880E7 /* 152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 152.png; sourceTree = "<group>"; };
+		84C27F972862068A0017D6AF /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84CC56422862014400EB3996 /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
+		84CC56432862014400EB3996 /* 76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 76.png; sourceTree = "<group>"; };
+		84CC56442862014400EB3996 /* 60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 60.png; sourceTree = "<group>"; };
+		84CC56452862014400EB3996 /* 64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 64.png; sourceTree = "<group>"; };
+		84CC56462862014400EB3996 /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
+		84CC56472862014400EB3996 /* 167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 167.png; sourceTree = "<group>"; };
+		84CC56482862014400EB3996 /* 72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 72.png; sourceTree = "<group>"; };
+		84CC56492862014400EB3996 /* 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29.png; sourceTree = "<group>"; };
+		84CC564A2862014400EB3996 /* 100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 100.png; sourceTree = "<group>"; };
+		84CC564B2862014400EB3996 /* 114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.png; sourceTree = "<group>"; };
+		84CC564C2862014400EB3996 /* 128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 128.png; sourceTree = "<group>"; };
+		84CC564D2862014400EB3996 /* 512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 512.png; sourceTree = "<group>"; };
+		84CC564E2862014400EB3996 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		84CC564F2862014400EB3996 /* icon.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = icon.svg; sourceTree = "<group>"; };
+		84CC56502862014400EB3996 /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		84CC56512862014400EB3996 /* 256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 256.png; sourceTree = "<group>"; };
+		84CC56522862014400EB3996 /* 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 20.png; sourceTree = "<group>"; };
+		84CC56532862014400EB3996 /* 32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 32.png; sourceTree = "<group>"; };
+		84CC56542862014400EB3996 /* 180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 180.png; sourceTree = "<group>"; };
+		84CC56552862014400EB3996 /* 57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57.png; sourceTree = "<group>"; };
+		84CC56562862014400EB3996 /* 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80.png; sourceTree = "<group>"; };
+		84CC56572862014400EB3996 /* 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40.png; sourceTree = "<group>"; };
+		84CC56582862014400EB3996 /* 87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 87.png; sourceTree = "<group>"; };
+		84CC56592862014400EB3996 /* 50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50.png; sourceTree = "<group>"; };
+		84CC565A2862014400EB3996 /* 144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 144.png; sourceTree = "<group>"; };
+		84CC565B2862014400EB3996 /* 152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 152.png; sourceTree = "<group>"; };
+		84F0A73A285CADB000CDEB9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
+		84F0A73B285CADB000CDEB9D /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		84F0A73C285CADB000CDEB9D /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		84F0A73D285CADB000CDEB9D /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
+		84F0A73E285CADB000CDEB9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		84F0A73F285CADB400CDEB9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		84F0A741285CADB400CDEB9D /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
+		84F0A743285CADB400CDEB9D /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _locales; sourceTree = "<group>"; };
+		84F0A744285CADB400CDEB9D /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		84F0A745285CADB400CDEB9D /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
+		84F0A74F285CADB400CDEB9D /* github-no-skip-ci.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "github-no-skip-ci.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84F0A752285CADB400CDEB9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		84F0A754285CADB400CDEB9D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		84F0A757285CADB400CDEB9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84F0A75A285CADB400CDEB9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84F0A75C285CADB400CDEB9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84F0A761285CADB400CDEB9D /* github-no-skip-ci.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "github-no-skip-ci.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84F0A763285CADB400CDEB9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		84F0A766285CADB400CDEB9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84F0A768285CADB400CDEB9D /* github-no-skip-ci.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "github-no-skip-ci.entitlements"; sourceTree = "<group>"; };
+		84F0A76D285CADB400CDEB9D /* github-no-skip-ci Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "github-no-skip-ci Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84F0A772285CADB400CDEB9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84F0A777285CADB400CDEB9D /* github-no-skip-ci Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "github-no-skip-ci Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84F0A77C285CADB400CDEB9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84F0A77D285CADB400CDEB9D /* github-no-skip-ci.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "github-no-skip-ci.entitlements"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		84F0A74C285CADB400CDEB9D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A75E285CADB400CDEB9D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A76A285CADB400CDEB9D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A774285CADB400CDEB9D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		84226C992860B120006880E7 /* shared */ = {
+			isa = PBXGroup;
+			children = (
+				84226C9A2860B120006880E7 /* remove-skip-ci.js */,
+				84226C9B2860B120006880E7 /* icons */,
+			);
+			name = shared;
+			path = ../../../shared;
+			sourceTree = "<group>";
+		};
+		84226C9B2860B120006880E7 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				84226C9C2860B120006880E7 /* 1024.png */,
+				84226C9D2860B120006880E7 /* 76.png */,
+				84226C9E2860B120006880E7 /* 60.png */,
+				84226C9F2860B120006880E7 /* 64.png */,
+				84226CA02860B120006880E7 /* 58.png */,
+				84226CA12860B120006880E7 /* 167.png */,
+				84226CA22860B120006880E7 /* 72.png */,
+				84226CA32860B120006880E7 /* 29.png */,
+				84226CA42860B120006880E7 /* 100.png */,
+				84226CA52860B120006880E7 /* 114.png */,
+				84226CA62860B120006880E7 /* 128.png */,
+				84226CA72860B120006880E7 /* 512.png */,
+				84226CA82860B120006880E7 /* 16.png */,
+				84226CA92860B120006880E7 /* icon.svg */,
+				84226CAA2860B120006880E7 /* 120.png */,
+				84226CAB2860B120006880E7 /* 256.png */,
+				84226CAC2860B120006880E7 /* 20.png */,
+				84226CAD2860B120006880E7 /* 32.png */,
+				84226CAE2860B120006880E7 /* 180.png */,
+				84226CAF2860B120006880E7 /* 57.png */,
+				84226CB02860B120006880E7 /* 80.png */,
+				84226CB12860B120006880E7 /* 40.png */,
+				84226CB22860B120006880E7 /* 87.png */,
+				84226CB32860B120006880E7 /* 50.png */,
+				84226CB42860B120006880E7 /* 144.png */,
+				84226CB52860B120006880E7 /* 152.png */,
+			);
+			path = icons;
+			sourceTree = "<group>";
+		};
+		84CC56412862014400EB3996 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				84CC56422862014400EB3996 /* 1024.png */,
+				84CC56432862014400EB3996 /* 76.png */,
+				84CC56442862014400EB3996 /* 60.png */,
+				84CC56452862014400EB3996 /* 64.png */,
+				84CC56462862014400EB3996 /* 58.png */,
+				84CC56472862014400EB3996 /* 167.png */,
+				84CC56482862014400EB3996 /* 72.png */,
+				84CC56492862014400EB3996 /* 29.png */,
+				84CC564A2862014400EB3996 /* 100.png */,
+				84CC564B2862014400EB3996 /* 114.png */,
+				84CC564C2862014400EB3996 /* 128.png */,
+				84CC564D2862014400EB3996 /* 512.png */,
+				84CC564E2862014400EB3996 /* 16.png */,
+				84CC564F2862014400EB3996 /* icon.svg */,
+				84CC56502862014400EB3996 /* 120.png */,
+				84CC56512862014400EB3996 /* 256.png */,
+				84CC56522862014400EB3996 /* 20.png */,
+				84CC56532862014400EB3996 /* 32.png */,
+				84CC56542862014400EB3996 /* 180.png */,
+				84CC56552862014400EB3996 /* 57.png */,
+				84CC56562862014400EB3996 /* 80.png */,
+				84CC56572862014400EB3996 /* 40.png */,
+				84CC56582862014400EB3996 /* 87.png */,
+				84CC56592862014400EB3996 /* 50.png */,
+				84CC565A2862014400EB3996 /* 144.png */,
+				84CC565B2862014400EB3996 /* 152.png */,
+			);
+			name = icons;
+			path = ../../../shared/icons;
+			sourceTree = "<group>";
+		};
+		84F0A732285CADB000CDEB9D = {
+			isa = PBXGroup;
+			children = (
+				84F0A737285CADB000CDEB9D /* Shared (App) */,
+				84F0A740285CADB400CDEB9D /* Shared (Extension) */,
+				84F0A751285CADB400CDEB9D /* iOS (App) */,
+				84F0A762285CADB400CDEB9D /* macOS (App) */,
+				84F0A771285CADB400CDEB9D /* iOS (Extension) */,
+				84F0A77B285CADB400CDEB9D /* macOS (Extension) */,
+				84F0A750285CADB400CDEB9D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		84F0A737285CADB000CDEB9D /* Shared (App) */ = {
+			isa = PBXGroup;
+			children = (
+				84F0A73E285CADB000CDEB9D /* ViewController.swift */,
+				84F0A73F285CADB400CDEB9D /* Assets.xcassets */,
+				84F0A738285CADB000CDEB9D /* Resources */,
+			);
+			path = "Shared (App)";
+			sourceTree = "<group>";
+		};
+		84F0A738285CADB000CDEB9D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				84CC56412862014400EB3996 /* icons */,
+				84F0A739285CADB000CDEB9D /* Main.html */,
+				84F0A73B285CADB000CDEB9D /* Icon.png */,
+				84F0A73C285CADB000CDEB9D /* style.css */,
+				84F0A73D285CADB000CDEB9D /* script.js */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		84F0A740285CADB400CDEB9D /* Shared (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				84F0A741285CADB400CDEB9D /* SafariWebExtensionHandler.swift */,
+				84F0A742285CADB400CDEB9D /* Resources */,
+			);
+			path = "Shared (Extension)";
+			sourceTree = "<group>";
+		};
+		84F0A742285CADB400CDEB9D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				84226C992860B120006880E7 /* shared */,
+				84F0A743285CADB400CDEB9D /* _locales */,
+				84F0A744285CADB400CDEB9D /* images */,
+				84F0A745285CADB400CDEB9D /* manifest.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		84F0A750285CADB400CDEB9D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84F0A74F285CADB400CDEB9D /* github-no-skip-ci.app */,
+				84F0A761285CADB400CDEB9D /* github-no-skip-ci.app */,
+				84F0A76D285CADB400CDEB9D /* github-no-skip-ci Extension.appex */,
+				84F0A777285CADB400CDEB9D /* github-no-skip-ci Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84F0A751285CADB400CDEB9D /* iOS (App) */ = {
+			isa = PBXGroup;
+			children = (
+				84F0A752285CADB400CDEB9D /* AppDelegate.swift */,
+				84F0A754285CADB400CDEB9D /* SceneDelegate.swift */,
+				84F0A756285CADB400CDEB9D /* LaunchScreen.storyboard */,
+				84F0A759285CADB400CDEB9D /* Main.storyboard */,
+				84F0A75C285CADB400CDEB9D /* Info.plist */,
+			);
+			path = "iOS (App)";
+			sourceTree = "<group>";
+		};
+		84F0A762285CADB400CDEB9D /* macOS (App) */ = {
+			isa = PBXGroup;
+			children = (
+				84C27F972862068A0017D6AF /* Info.plist */,
+				84F0A763285CADB400CDEB9D /* AppDelegate.swift */,
+				84F0A765285CADB400CDEB9D /* Main.storyboard */,
+				84F0A768285CADB400CDEB9D /* github-no-skip-ci.entitlements */,
+			);
+			path = "macOS (App)";
+			sourceTree = "<group>";
+		};
+		84F0A771285CADB400CDEB9D /* iOS (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				84F0A772285CADB400CDEB9D /* Info.plist */,
+			);
+			path = "iOS (Extension)";
+			sourceTree = "<group>";
+		};
+		84F0A77B285CADB400CDEB9D /* macOS (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				84F0A77C285CADB400CDEB9D /* Info.plist */,
+				84F0A77D285CADB400CDEB9D /* github-no-skip-ci.entitlements */,
+			);
+			path = "macOS (Extension)";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		84F0A74E285CADB400CDEB9D /* github-no-skip-ci (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84F0A7A2285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci (iOS)" */;
+			buildPhases = (
+				84F0A74B285CADB400CDEB9D /* Sources */,
+				84F0A74C285CADB400CDEB9D /* Frameworks */,
+				84F0A74D285CADB400CDEB9D /* Resources */,
+				84F0A7A1285CADB400CDEB9D /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				84F0A770285CADB400CDEB9D /* PBXTargetDependency */,
+			);
+			name = "github-no-skip-ci (iOS)";
+			productName = "github-no-skip-ci (iOS)";
+			productReference = 84F0A74F285CADB400CDEB9D /* github-no-skip-ci.app */;
+			productType = "com.apple.product-type.application";
+		};
+		84F0A760285CADB400CDEB9D /* github-no-skip-ci (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84F0A7A9285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci (macOS)" */;
+			buildPhases = (
+				84F0A75D285CADB400CDEB9D /* Sources */,
+				84F0A75E285CADB400CDEB9D /* Frameworks */,
+				84F0A75F285CADB400CDEB9D /* Resources */,
+				84F0A7A8285CADB400CDEB9D /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				84F0A77A285CADB400CDEB9D /* PBXTargetDependency */,
+			);
+			name = "github-no-skip-ci (macOS)";
+			productName = "github-no-skip-ci (macOS)";
+			productReference = 84F0A761285CADB400CDEB9D /* github-no-skip-ci.app */;
+			productType = "com.apple.product-type.application";
+		};
+		84F0A76C285CADB400CDEB9D /* github-no-skip-ci Extension (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84F0A79E285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci Extension (iOS)" */;
+			buildPhases = (
+				84F0A769285CADB400CDEB9D /* Sources */,
+				84F0A76A285CADB400CDEB9D /* Frameworks */,
+				84F0A76B285CADB400CDEB9D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "github-no-skip-ci Extension (iOS)";
+			productName = "github-no-skip-ci Extension (iOS)";
+			productReference = 84F0A76D285CADB400CDEB9D /* github-no-skip-ci Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		84F0A776285CADB400CDEB9D /* github-no-skip-ci Extension (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84F0A7A5285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci Extension (macOS)" */;
+			buildPhases = (
+				84F0A773285CADB400CDEB9D /* Sources */,
+				84F0A774285CADB400CDEB9D /* Frameworks */,
+				84F0A775285CADB400CDEB9D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "github-no-skip-ci Extension (macOS)";
+			productName = "github-no-skip-ci Extension (macOS)";
+			productReference = 84F0A777285CADB400CDEB9D /* github-no-skip-ci Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84F0A733285CADB000CDEB9D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					84F0A74E285CADB400CDEB9D = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					84F0A760285CADB400CDEB9D = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					84F0A76C285CADB400CDEB9D = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					84F0A776285CADB400CDEB9D = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+				};
+			};
+			buildConfigurationList = 84F0A736285CADB000CDEB9D /* Build configuration list for PBXProject "github-no-skip-ci" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84F0A732285CADB000CDEB9D;
+			productRefGroup = 84F0A750285CADB400CDEB9D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84F0A74E285CADB400CDEB9D /* github-no-skip-ci (iOS) */,
+				84F0A760285CADB400CDEB9D /* github-no-skip-ci (macOS) */,
+				84F0A76C285CADB400CDEB9D /* github-no-skip-ci Extension (iOS) */,
+				84F0A776285CADB400CDEB9D /* github-no-skip-ci Extension (macOS) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		84F0A74D285CADB400CDEB9D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84CC56742862014400EB3996 /* 16.png in Resources */,
+				84CC56842862014400EB3996 /* 80.png in Resources */,
+				84CC56862862014400EB3996 /* 40.png in Resources */,
+				84CC56782862014400EB3996 /* 120.png in Resources */,
+				84CC566A2862014400EB3996 /* 29.png in Resources */,
+				84CC567C2862014400EB3996 /* 20.png in Resources */,
+				84F0A780285CADB400CDEB9D /* Icon.png in Resources */,
+				84F0A758285CADB400CDEB9D /* LaunchScreen.storyboard in Resources */,
+				84CC56662862014400EB3996 /* 167.png in Resources */,
+				84CC565C2862014400EB3996 /* 1024.png in Resources */,
+				84F0A77E285CADB400CDEB9D /* Main.html in Resources */,
+				84F0A784285CADB400CDEB9D /* script.js in Resources */,
+				84CC56602862014400EB3996 /* 60.png in Resources */,
+				84CC565E2862014400EB3996 /* 76.png in Resources */,
+				84CC56702862014400EB3996 /* 128.png in Resources */,
+				84F0A788285CADB400CDEB9D /* Assets.xcassets in Resources */,
+				84CC566E2862014400EB3996 /* 114.png in Resources */,
+				84CC56802862014400EB3996 /* 180.png in Resources */,
+				84CC568E2862014400EB3996 /* 152.png in Resources */,
+				84CC568A2862014400EB3996 /* 50.png in Resources */,
+				84CC568C2862014400EB3996 /* 144.png in Resources */,
+				84CC567E2862014400EB3996 /* 32.png in Resources */,
+				84CC56622862014400EB3996 /* 64.png in Resources */,
+				84CC56882862014400EB3996 /* 87.png in Resources */,
+				84CC567A2862014400EB3996 /* 256.png in Resources */,
+				84CC566C2862014400EB3996 /* 100.png in Resources */,
+				84CC56682862014400EB3996 /* 72.png in Resources */,
+				84CC56762862014400EB3996 /* icon.svg in Resources */,
+				84CC56722862014400EB3996 /* 512.png in Resources */,
+				84CC56822862014400EB3996 /* 57.png in Resources */,
+				84F0A75B285CADB400CDEB9D /* Main.storyboard in Resources */,
+				84CC56642862014400EB3996 /* 58.png in Resources */,
+				84F0A782285CADB400CDEB9D /* style.css in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A75F285CADB400CDEB9D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84CC568B2862014400EB3996 /* 50.png in Resources */,
+				84CC566F2862014400EB3996 /* 114.png in Resources */,
+				84CC56752862014400EB3996 /* 16.png in Resources */,
+				84CC56712862014400EB3996 /* 128.png in Resources */,
+				84CC567B2862014400EB3996 /* 256.png in Resources */,
+				84CC56692862014400EB3996 /* 72.png in Resources */,
+				84CC56872862014400EB3996 /* 40.png in Resources */,
+				84CC56672862014400EB3996 /* 167.png in Resources */,
+				84C27F982862068A0017D6AF /* Info.plist in Resources */,
+				84F0A781285CADB400CDEB9D /* Icon.png in Resources */,
+				84F0A783285CADB400CDEB9D /* style.css in Resources */,
+				84CC56772862014400EB3996 /* icon.svg in Resources */,
+				84CC56732862014400EB3996 /* 512.png in Resources */,
+				84F0A767285CADB400CDEB9D /* Main.storyboard in Resources */,
+				84CC565D2862014400EB3996 /* 1024.png in Resources */,
+				84CC566D2862014400EB3996 /* 100.png in Resources */,
+				84CC56832862014400EB3996 /* 57.png in Resources */,
+				84F0A785285CADB400CDEB9D /* script.js in Resources */,
+				84CC56852862014400EB3996 /* 80.png in Resources */,
+				84CC568F2862014400EB3996 /* 152.png in Resources */,
+				84CC567F2862014400EB3996 /* 32.png in Resources */,
+				84CC56812862014400EB3996 /* 180.png in Resources */,
+				84CC56632862014400EB3996 /* 64.png in Resources */,
+				84CC566B2862014400EB3996 /* 29.png in Resources */,
+				84F0A789285CADB400CDEB9D /* Assets.xcassets in Resources */,
+				84CC565F2862014400EB3996 /* 76.png in Resources */,
+				84CC567D2862014400EB3996 /* 20.png in Resources */,
+				84CC56652862014400EB3996 /* 58.png in Resources */,
+				84CC56792862014400EB3996 /* 120.png in Resources */,
+				84CC56612862014400EB3996 /* 60.png in Resources */,
+				84CC568D2862014400EB3996 /* 144.png in Resources */,
+				84CC56892862014400EB3996 /* 87.png in Resources */,
+				84F0A77F285CADB400CDEB9D /* Main.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A76B285CADB400CDEB9D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84226CE62860B120006880E7 /* 50.png in Resources */,
+				84226CCA2860B120006880E7 /* 114.png in Resources */,
+				84226CD02860B120006880E7 /* 16.png in Resources */,
+				84226CCC2860B120006880E7 /* 128.png in Resources */,
+				84226CD62860B120006880E7 /* 256.png in Resources */,
+				84226CC42860B120006880E7 /* 72.png in Resources */,
+				84226CE22860B120006880E7 /* 40.png in Resources */,
+				84226CC22860B120006880E7 /* 167.png in Resources */,
+				84F0A78E285CADB400CDEB9D /* images in Resources */,
+				84226CD22860B120006880E7 /* icon.svg in Resources */,
+				84226CCE2860B120006880E7 /* 512.png in Resources */,
+				84F0A790285CADB400CDEB9D /* manifest.json in Resources */,
+				84226CB82860B120006880E7 /* 1024.png in Resources */,
+				84226CC82860B120006880E7 /* 100.png in Resources */,
+				84226CDE2860B120006880E7 /* 57.png in Resources */,
+				84226CB62860B120006880E7 /* remove-skip-ci.js in Resources */,
+				84226CE02860B120006880E7 /* 80.png in Resources */,
+				84226CEA2860B120006880E7 /* 152.png in Resources */,
+				84226CDA2860B120006880E7 /* 32.png in Resources */,
+				84226CDC2860B120006880E7 /* 180.png in Resources */,
+				84226CBE2860B120006880E7 /* 64.png in Resources */,
+				84226CC62860B120006880E7 /* 29.png in Resources */,
+				84F0A78C285CADB400CDEB9D /* _locales in Resources */,
+				84226CBA2860B120006880E7 /* 76.png in Resources */,
+				84226CD82860B120006880E7 /* 20.png in Resources */,
+				84226CC02860B120006880E7 /* 58.png in Resources */,
+				84226CD42860B120006880E7 /* 120.png in Resources */,
+				84226CBC2860B120006880E7 /* 60.png in Resources */,
+				84226CE82860B120006880E7 /* 144.png in Resources */,
+				84226CE42860B120006880E7 /* 87.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A775285CADB400CDEB9D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84226CE72860B120006880E7 /* 50.png in Resources */,
+				84226CCB2860B120006880E7 /* 114.png in Resources */,
+				84226CD12860B120006880E7 /* 16.png in Resources */,
+				84226CCD2860B120006880E7 /* 128.png in Resources */,
+				84226CD72860B120006880E7 /* 256.png in Resources */,
+				84226CC52860B120006880E7 /* 72.png in Resources */,
+				84226CE32860B120006880E7 /* 40.png in Resources */,
+				84226CC32860B120006880E7 /* 167.png in Resources */,
+				84F0A78F285CADB400CDEB9D /* images in Resources */,
+				84226CD32860B120006880E7 /* icon.svg in Resources */,
+				84226CCF2860B120006880E7 /* 512.png in Resources */,
+				84F0A791285CADB400CDEB9D /* manifest.json in Resources */,
+				84226CB92860B120006880E7 /* 1024.png in Resources */,
+				84226CC92860B120006880E7 /* 100.png in Resources */,
+				84226CDF2860B120006880E7 /* 57.png in Resources */,
+				84226CB72860B120006880E7 /* remove-skip-ci.js in Resources */,
+				84226CE12860B120006880E7 /* 80.png in Resources */,
+				84226CEB2860B120006880E7 /* 152.png in Resources */,
+				84226CDB2860B120006880E7 /* 32.png in Resources */,
+				84226CDD2860B120006880E7 /* 180.png in Resources */,
+				84226CBF2860B120006880E7 /* 64.png in Resources */,
+				84226CC72860B120006880E7 /* 29.png in Resources */,
+				84F0A78D285CADB400CDEB9D /* _locales in Resources */,
+				84226CBB2860B120006880E7 /* 76.png in Resources */,
+				84226CD92860B120006880E7 /* 20.png in Resources */,
+				84226CC12860B120006880E7 /* 58.png in Resources */,
+				84226CD52860B120006880E7 /* 120.png in Resources */,
+				84226CBD2860B120006880E7 /* 60.png in Resources */,
+				84226CE92860B120006880E7 /* 144.png in Resources */,
+				84226CE52860B120006880E7 /* 87.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		84F0A74B285CADB400CDEB9D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84F0A786285CADB400CDEB9D /* ViewController.swift in Sources */,
+				84F0A753285CADB400CDEB9D /* AppDelegate.swift in Sources */,
+				84F0A755285CADB400CDEB9D /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A75D285CADB400CDEB9D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84F0A787285CADB400CDEB9D /* ViewController.swift in Sources */,
+				84F0A764285CADB400CDEB9D /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A769285CADB400CDEB9D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84F0A78A285CADB400CDEB9D /* SafariWebExtensionHandler.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84F0A773285CADB400CDEB9D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84F0A78B285CADB400CDEB9D /* SafariWebExtensionHandler.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		84F0A770285CADB400CDEB9D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 84F0A76C285CADB400CDEB9D /* github-no-skip-ci Extension (iOS) */;
+			targetProxy = 84F0A76F285CADB400CDEB9D /* PBXContainerItemProxy */;
+		};
+		84F0A77A285CADB400CDEB9D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 84F0A776285CADB400CDEB9D /* github-no-skip-ci Extension (macOS) */;
+			targetProxy = 84F0A779285CADB400CDEB9D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		84F0A739285CADB000CDEB9D /* Main.html */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84F0A73A285CADB000CDEB9D /* Base */,
+			);
+			name = Main.html;
+			sourceTree = "<group>";
+		};
+		84F0A756285CADB400CDEB9D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84F0A757285CADB400CDEB9D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		84F0A759285CADB400CDEB9D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84F0A75A285CADB400CDEB9D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		84F0A765285CADB400CDEB9D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84F0A766285CADB400CDEB9D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		84F0A79C285CADB400CDEB9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		84F0A79D285CADB400CDEB9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		84F0A79F285CADB400CDEB9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "No Skip CI for GitHub";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.no-skip-ci-for-github.safari";
+				PRODUCT_NAME = "github-no-skip-ci Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		84F0A7A0285CADB400CDEB9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "No Skip CI for GitHub";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.github-no-skip-ci.safari";
+				PRODUCT_NAME = "github-no-skip-ci Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		84F0A7A3285CADB400CDEB9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "No Skip CI for GitHub";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.no-skip-ci-for-github";
+				PRODUCT_NAME = "github-no-skip-ci";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		84F0A7A4285CADB400CDEB9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "No Skip CI for GitHub";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.no-skip-ci-for-github";
+				PRODUCT_NAME = "github-no-skip-ci";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		84F0A7A6285CADB400CDEB9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/github-no-skip-ci.entitlements";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "github-no-skip-ci Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.no-skip-ci-for-github.safari";
+				PRODUCT_NAME = "github-no-skip-ci Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		84F0A7A7285CADB400CDEB9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/github-no-skip-ci.entitlements";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "github-no-skip-ci Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.no-skip-ci-for-github.safari";
+				PRODUCT_NAME = "github-no-skip-ci Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		84F0A7AA285CADB400CDEB9D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/github-no-skip-ci.entitlements";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "github-no-skip-ci--macOS--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "github-no-skip-ci";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.no-skip-ci-for-github";
+				PRODUCT_NAME = "github-no-skip-ci";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		84F0A7AB285CADB400CDEB9D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/github-no-skip-ci.entitlements";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "github-no-skip-ci--macOS--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "github-no-skip-ci";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zaosoula.no-skip-ci-for-github";
+				PRODUCT_NAME = "github-no-skip-ci";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84F0A736285CADB000CDEB9D /* Build configuration list for PBXProject "github-no-skip-ci" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84F0A79C285CADB400CDEB9D /* Debug */,
+				84F0A79D285CADB400CDEB9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84F0A79E285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci Extension (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84F0A79F285CADB400CDEB9D /* Debug */,
+				84F0A7A0285CADB400CDEB9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84F0A7A2285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84F0A7A3285CADB400CDEB9D /* Debug */,
+				84F0A7A4285CADB400CDEB9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84F0A7A5285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci Extension (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84F0A7A6285CADB400CDEB9D /* Debug */,
+				84F0A7A7285CADB400CDEB9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84F0A7A9285CADB400CDEB9D /* Build configuration list for PBXNativeTarget "github-no-skip-ci (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84F0A7AA285CADB400CDEB9D /* Debug */,
+				84F0A7AB285CADB400CDEB9D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 84F0A733285CADB000CDEB9D /* Project object */;
+}
